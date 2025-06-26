@@ -1,1 +1,2 @@
 # Task-3
+In This task we perform various operations using EDA on our employee_dataset_for_eda this dataset .In That we first import all Needed libraries.then we uplaod our dataset in our folder.then first perform simple  data analyzing methods such as head(),tail(),info().then we manage categorical variable visualization.for Gender,Department,Location and some numerical variable visulization for Age,Employee_id,years_of_experience,performance_score,monthly_salary. 
